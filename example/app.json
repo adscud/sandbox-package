@@ -1,0 +1,22 @@
+{
+  "name": "ko-sandbox-package-example",
+  "displayName": "KoSandboxPackage Example",
+  "expo": {
+    "name": "ko-sandbox-package-example",
+    "slug": "ko-sandbox-package-example",
+    "description": "Example app for ko-sandbox-package",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
